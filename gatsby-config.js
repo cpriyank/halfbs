@@ -9,10 +9,10 @@ module.exports = {
     author: {
       name: 'Half BS',
       url: 'https://github.com/cpriyank',
-      // email: 'jeffrafter@gmail.com',
+      email: 'randomemail@gmail.com',
     },
     social: {
-      // twitter: 'https://twitter.com/jeffrafter',
+      twitter: 'https://twitter.com/randomtwitter',
       github: 'https://github.com/cpriyank',
     },
   },
