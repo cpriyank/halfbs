@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[49],{2766:function(t,e,a){a.r(e);var l=a(7294),r=a(4842),s=a(4299);e.default=t=>{let{data:e}=t;const a=e.site.siteMetadata.title;return l.createElement(r.Z,{title:a},l.createElement(s.Z,{title:"All tags",keywords:["blog","gatsby","javascript","react"]}),l.createElement("article",null,"About Half BS..."))}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-137911e16dc15f23fc79.js.map
