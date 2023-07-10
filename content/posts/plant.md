@@ -7,4 +7,4 @@ tags: ['vegan', 'plant-based', 'morals']
 category: bs
 ---
 
-Winter is coming!
+Some random letters
