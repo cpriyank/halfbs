@@ -11,7 +11,7 @@ category: bs
 
 Here are some points which have very good or undeniable evidence:
 
-1. When our brain faces new knowledge which conflicts with existing knowledge or requires changes in everyday decisions brain can invent very scientific-sounding justifications to reject that evidence (see Cognitive Dissonance and Confirmation Bias).
+1. When our brain faces new knowledge which conflicts with existing knowledge or requires changes in everyday decisions, brain can invent very scientific-sounding justifications to reject that evidence (see Cognitive Dissonance and Confirmation Bias).
 
 Real life example: a generally sane person in my community says that they eat a lot of chilli peppers, therefore they will not develop diabetes even if they eat a lot of sweets. In their mind, the spiciness of chili peppers cancels out the adverse effects of excess sugar
 
@@ -21,9 +21,9 @@ For an analogy, imagine how you would feel if your government, employer, or othe
 
 3. Most of the animals used for dairy are kept in conditions considered inhumane
 
-4. Most animals are bred/hybridized not to support their own needs, but to maximize human valued yields (more or better milk/honey/meat/leather etc). If our intention was to protect them from wild animals, we would not force breed or impregnate them as much as possible
+4. Most animals are bred/hybridized not to support their own needs, but to maximize human valued yields (more or better milk/honey/meat/leather etc). If our intention was to protect them from wild animals, we would not force breed or impregnate them.
 
- 5. Not all cows develop mastitis if they are not milked
+5. Not all cows develop mastitis if they are not milked. If the intention is to save them from mastitis, better approach is to not milk them at all, because milking them exposes them to bacteria or risks mammary tissue damage. 
 
 6. There are large scale meta-studies over longer periods which show that well balanced, purely plant based diet with supplements have no risks of deficiency or health concerns
 
