@@ -62,7 +62,7 @@ If you were previously not consuming animals, but later switched because you wer
 If you feel that the intelligent have the right to dominate the "lesser" ones, I'm very happy that you're not designing Al.
 The future doesn't look good for humans if we design Al to dominate over less intelligent us.
 
-Notes: I deliberately avoided euphemisms used by industry, such as "meat/beef/ham/pork" rather than dead cow/pig, to divert attention away from fact that animals are sentient beings
+Notes: I deliberately avoided euphemisms used by industry, such as "meat/beef/ham/pork" rather than dead cow/pig; industry does that to divert attention away from fact that animals are sentient beings.
 
 Speaking personally, I find it uneasy discussing this issue with my family/friends. There is always a fear that it might introduce tension or conflicts in relationships, fear of being judged as self-righteous, or worry that they might feel I'm judging them for not following my cult.
 Often, I just don't talk about it in a large group, but I feel it's important to confront people we care about, perhaps more important than confronting adversaries. It's one of the few ways to bring about moral or cultural change without relying on a powerful authority.
