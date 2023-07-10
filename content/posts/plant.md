@@ -7,7 +7,7 @@ tags: ['vegan', 'plant-based', 'morals']
 category: bs
 ---
 
-(Read notes at the end on choice of words. I'm not attacking or pointing fingers at specific groups or cultures, nor am I defending any. I also do not think anyone can change overnight or change completely all the time. I'm only urging some genuine thinking and reflection which are becoming increasingly rare)
+(Read notes at the end on choice of words. I'm not attacking or pointing fingers at specific groups or cultures, nor am I defending any. I also do not think anyone can change overnight or change completely all the time. I'm only urging some genuine thinking, reflection, dialog, and optional actions to change habits or norms, all of which are becoming increasingly rare)
 
 Here are some points which have very good or undeniable evidence:
 
@@ -49,7 +49,7 @@ Even if a bunch of rational people emerge in that culture, consuming animal prod
 (e.g. lf you don't follow certain diet, some groups can exclude you from gatherings altogether out of apparent holier-than-thou attitude.)
 Culture cannot change overnight. Nothing wrong with it
 
-When you change diet, you need to ensure that you get all the nutrients/supplements and do not develop any deficiencies.
+When you change diet, you need to ensure that you get all the nutrients/supplements and do not develop any deficiencies. You also need to possibly change your daily rituals or habits. Until you either change a habit or give up, this extra intentional thinking is required everyday.
 
 At an individual level, this level of thinking is hard; and therefore most people do what others in their groups are doing, or what they themselves had been doing before new knowledge is revealed.
 Sometimes, there are genuine reasons to do this, but not always.
