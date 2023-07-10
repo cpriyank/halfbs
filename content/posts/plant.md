@@ -11,7 +11,7 @@ category: bs
 
 Here are some points which have very good or undeniable evidence:
 
-1. When our brain faces new knowledge which conflicts with existing knowledge or requires changes in everyday decisions prain can invent very scientific-sounding justifications to reject that evidence (see Cognitive Dissonance and Confirmation Bias).
+1. When our brain faces new knowledge which conflicts with existing knowledge or requires changes in everyday decisions brain can invent very scientific-sounding justifications to reject that evidence (see Cognitive Dissonance and Confirmation Bias).
 
 Real life example: a generally sane person in my community says that they eat a lot of chilli peppers, therefore they will not develop diabetes even if they eat a lot of sweets. In their mind, the spiciness of chili peppers cancels out the adverse effects of excess sugar
 
@@ -33,7 +33,7 @@ If you watch them, you will certainly not feel more than 1% of pain that they fe
 
 8. In any system, if demand reduces supply will reduce. In countries (cities of UK, Germany, Sweden, Netherlands, US, Australia) where people are adopting plant based diet, production of animal products has reduced. Tesla and a lot of other new EVs have vegan leather
 
-It's true that in some places underprivileged humans suffer and are struggling for survival. A lot of people of my home state Gujarat depend on animal husbandary for livelihood. I am not saying we need to create 500000 hectare of parks with people helping them 24x7. But it's perfectly possible to improve living conditions *slightly* for animals, and *slightly reduce dependence* on animal products if your moral values are consistent.
+It's true that in some places underprivileged humans suffer and are struggling for survival. A lot of people of my home state Gujarat depend on animal husbandry for livelihood. I am not saying we need to create 500000 hectare of parks with people helping them 24x7. But it's perfectly possible to improve living conditions *slightly* for animals, and *slightly reduce dependence* on animal products if your moral values are consistent.
 
 I also recognize that there are some genuine justifications on eating animals or consuming their milk:
 
@@ -54,7 +54,7 @@ When you change diet, you need to ensure that you get all the nutrients/suppleme
 At an individual level, this level of thinking is hard; and therefore most people do what others in their groups are doing, or what they themselves had been doing before new knowledge is revealed.
 Sometimes, there are genuine reasons to do this, but not always.
 
-Because of how our society is organized, some people require government or religious leaders to delcare this any new knowledge as truth.
+Because of how our society is organized, some people require government or religious leaders to declare any new knowledge as truth.
 (e.g. People refused to believe that we evolved from apes for 130 years after publication of Darwin's theory. Kepler published that Earth is not the center of the universe in 1609, but majority of religions, governments, and people believed, until 19th century that we are at the center of the Universe with some special godly purpose. Anyone who claimed otherwise was jailed or threatened (including Galileo, who demonstrated this by experiment))
 
 If you were previously not consuming animals, but later switched because you were curious about taste, texture, smell, or social acceptance, a good uncomfortable analogy is to ask if you will support a rape or murder of an innocent person because you were curious how you would enjoy it.
