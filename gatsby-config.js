@@ -4,8 +4,8 @@
 module.exports = {
   pathPrefix: "/halfbs",
   siteMetadata: {
-    title: 'Example',
-    description: 'This is an example site I made.',
+    title: 'halfbs',
+    description: 'Half Baked Speculations (or BS). This is intended to be my scratchpad, but I am open for comments and discussions if you know where to find me',
     siteUrl: 'https://cpriyank.github.io/halfbs',
     author: {
       name: 'Half BS',
