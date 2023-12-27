@@ -14,7 +14,7 @@ const About: React.FC<Props> = ({data}) => {
   return (
     <Layout title={siteTitle}>
       <Head title="All tags" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
-      <article>About Half BS...</article>
+      <article>To the spaces between us, to the gambler's hope, and to that tiny possiblity of magic</article>
     </Layout>
   )
 }

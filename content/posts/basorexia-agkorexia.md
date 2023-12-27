@@ -1,5 +1,5 @@
 ---
-title: Basorexia | Agkorexia
+title: Basorexia, agkorexia
 date: '2023-12-27'
 published: true
 layout: post
