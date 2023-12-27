@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[49],{2766:function(t,e,a){a.r(e);var s=a(7294),l=a(4842),r=a(4299);e.default=t=>{let{data:e}=t;const a=e.site.siteMetadata.title;return s.createElement(l.Z,{title:a},s.createElement(r.Z,{title:"All tags",keywords:["blog","gatsby","javascript","react"]}),s.createElement("article",null,"To the spaces between us, to the gambler's hope, and to that tiny possiblity of magic"))}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-de41a4a20a6480c81248.js.map
