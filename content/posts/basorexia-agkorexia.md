@@ -86,7 +86,7 @@ For amidst the barbs and blows I endured,
 <br>
 in the end, in my boudoir pillow,
 <br>
-![despair]([https://framemark.vam.ac.uk/collections/2006AX9926/full/full/0/default.jpg](https://framemark.vam.ac.uk/collections/2006AX9926/full/full/0/default.jpg))
+![desespoir](https://frenchart.umsl.edu/wp-content/uploads/2013/10/Rodin-Desespoir.jpg)
 <br>
 I discover skin that listens,
 <br>
@@ -96,5 +96,3 @@ I wonder, do you feel that fleeting urge,
 <br>
 to kiss and cuddle across the star-laden abyss?
 <br>
-
-> At midnight, the spectral purrs of a Singaporean kitty and the Rodin whispered secrets I saw yesterday at Stanford's Cantor Museum danced in my dreams, creating a haunting fugue.
