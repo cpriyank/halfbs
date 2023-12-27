@@ -3,7 +3,7 @@ title: Basorexia | Agkorexia
 date: '2023-12-27'
 published: true
 layout: post
-tags: ['kitty', 'lust', 'distance', 'despair', 'love', 'longing', 'long-distance', 'missing', 'missing-you', 'passion', 'romance', 'separation', 'yearning']
+tags: ['kitty', 'lust', 'despair', 'longing', 'long-distance', 'bliss']
 category: bs
 ---
 
