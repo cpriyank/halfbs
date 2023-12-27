@@ -58,7 +58,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://halfbs.github.io`,
+        siteUrl: `https://cpriyank.github.io`,
       },
     },
     {
