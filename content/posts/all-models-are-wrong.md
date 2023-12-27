@@ -1,7 +1,7 @@
 ---
 title: "All Models Are Wrong"
 date: 2020-06-30T16:16:44-07:00
-published: false
+published: true
 slug: example-markdown
 layout: post
 tags: ['markdown']
