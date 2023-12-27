@@ -15,6 +15,7 @@ It can be frustrating, especially at first, to be
 misunderstood while shouting over that void.
 But the two ends, never truly apart, manage to
 converge. We are heard in each other's arms.
+![psyche](https://collectionapi.metmuseum.org/api/collection/v1/iiif/191329/1724860/main-image)
 We are held, suspended, in the breeding ground of echoes
 We diminish, we erode ourselves
 to make bridges over absence.
