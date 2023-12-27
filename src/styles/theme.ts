@@ -307,7 +307,8 @@ pre.code.fullwidth {
   }
 
   img {
-    width: 100%;
+    max-width: 700px;
+    height: auto;
   }
 }
 `
