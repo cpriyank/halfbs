@@ -8,90 +8,90 @@ category: bs
 ---
 
 Passion is not mastery,
-<hr>
+<br>
 Strong feelings are
-<hr>
+<br>
 neither facts nor keen understanding.
-<hr>
+<br>
 
 Our convictions take courage,
-<hr>
+<br>
 to swim against the current,
-<hr>
+<br>
 to be true.
-<hr>
+<br>
 
 ![diving-bell](../assets/diving-bell.png)
-<hr>
+<br>
 That ceaseless flow spares no one.
-<hr>
+<br>
 We drown in knowledge,
-<hr>
+<br>
 and we feel we know that ocean.
-<hr>
+<br>
 
 Our souls cry for others,
-<hr>
+<br>
 our minds eject what they can
-<hr>
+<br>
 to take on new horrors, bold.
-<hr>
+<br>
 
 We are finite,
-<hr>
+<br>
 foaming at the mouth,
-<hr>
+<br>
 of infinite arrays of information, in scores.
-<hr>
+<br>
 We know enough to react,
-<hr>
+<br>
 but often not enough,
-<hr>
+<br>
 to prevent the tragedies that come our way, and more.
-<hr>
+<br>
 
 Things are euphoric or vicious,
-<hr>
+<br>
 and then,
-<hr>
+<br>
 they are washed away.
-<hr>
+<br>
 For many, a lack of knowledge leads to
-<hr>
+<br>
 fanaticism on the subject at hand.
-<hr>
+<br>
 They attack what they don’t grasp,
-<hr>
+<br>
 and sway.
-<hr>
+<br>
 
 It is beautiful to be bold and unabashed,
-<hr>
+<br>
 but propaganda works best on the beautiful, alas.
-<hr>
+<br>
 Look carefully before you misguide another’s gaze,
-<hr>
+<br>
 before lunging into false battles,
-<hr>
+<br>
 with no end in sight, and pass.
-<hr>
+<br>
 
 Passion is not expertise,
-<hr>
+<br>
 but neither is a restrained armchair view.
-<hr>
+<br>
 And I’d take the passionate over the poised any day,
-<hr>
+<br>
 with delight, anew.
-<hr>
+<br>
 
 Between the empathetic and apathetic,
-<hr>
+<br>
 the former will get informed,
-<hr>
+<br>
 As long as they’re not caught up
-<hr>
+<br>
 in some performance,
-<hr>
+<br>
 they’ll learn, and be transformed.
-<hr>
+<br>
