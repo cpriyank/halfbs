@@ -76,7 +76,7 @@ before lunging into false battles,
 with no end in sight, and pass.
 <br>
 
-Passion is not expertise,
+Passion is not mastery,
 <br>
 but neither is a restrained armchair view.
 <br>
