@@ -22,6 +22,7 @@ to be true.
 <hr>
 
 ![diving-bell](../assets/diving-bell.png)
+<hr>
 That ceaseless flow spares no one.
 <hr>
 We drown in knowledge,
