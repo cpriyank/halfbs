@@ -14,11 +14,13 @@ For all the binding to hold me in place,
 <br>
 it's you who's deliciously bound.
 <br>
+<br>
 You're bound for the same
 <br>
 shucking and tearing that
 <br>
 little bows can beckon.
+<br>
 <br>
 They say measure twice and cut once.
 <br>
@@ -29,6 +31,7 @@ It's practically in tatters.
 No different from the red pulsing of
 <br>
 your inner thighs, handily rendered.
+<br>
 <br>
 Thread spools between your teeth.
 <br>
@@ -42,6 +45,7 @@ refuge along your spine
 <br>
 An escaped prisoner, hoping for a longer sentence.
 <br>
+<br>
 The way we rend one another-- no wonder
 <br>
 we weave all this thread.
@@ -49,6 +53,7 @@ we weave all this thread.
 We tie the most wonderful knots
 <br>
 where we hope to unravel.
+<br>
 <br>
 All a frenzy of nails and teeth,
 <br>
