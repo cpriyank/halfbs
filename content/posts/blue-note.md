@@ -1,5 +1,5 @@
 ---
-title: Bebop
+title: Blue Note
 date: '2024-01-09'
 published: true
 layout: post
