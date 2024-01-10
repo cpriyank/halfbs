@@ -48,7 +48,7 @@ or cradle another's, until the cameras are off.
 <br>
 I think people fundamentally misunderstand the Russian Classics
 <br>
-(and Cowboy Bebop).
+(and The Book Thief).
 <br>
 They listen to a person laying themselves bare, wailing
 <br>
