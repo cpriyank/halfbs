@@ -10,9 +10,11 @@ Just because there is suffering in art,
 <br>
 doesn't mean there is art in suffering.
 <br>
+<br>
 I see it with disturbing frequency: pain framed as
 <br>
 inherently romantic, worthwhile for its own sake
+<br>
 <br>
 Suffering simplified, made consumable, aesthetically pleasant-
 <br>
@@ -20,6 +22,7 @@ tell me, does it really hurt so good?
 <br>
 <br>
 Only then, when there's no context, no challenge
+<br>
 <br>
 I've seen art which falls short in its framing of suffering:
 <br>
@@ -29,6 +32,7 @@ a lazy and superficial spotlight.
 Stood starkly, there is no denying
 <br>
 in that light; yes, there is suffering.
+<br>
 <br>
 So what? Too often, no elaboration is offered,
 <br>
@@ -50,11 +54,13 @@ I think people fundamentally misunderstand the Russian Classics
 <br>
 (and The Book Thief).
 <br>
+<br>
 They listen to a person laying themselves bare, wailing
 <br>
 about losses, inner turmoil, dependence, anguish;
 <br>
 they listen and think "it's about suffering"
+<br>
 <br>
 But it isn't. The blues are about transience
 <br>
@@ -65,11 +71,14 @@ as a consequence of being a traveler.
 <br>
 It's an art that frames suffering as a fact, not a fascination.
 <br>
+<br>
 There's nothing to romanticize; only something to endure.
+<br>
 <br>
 There's more to suffering than art, and more to art than suffering.
 <br>
 Pain does not make anything more palatable, nor potent
+<br>
 <br>
 When you've cried long enough to feel warm,
 <br>
@@ -85,6 +94,7 @@ A romantic view of suffering is quite easy when you're numb.
 But when you feel, and you hit that blue note, you wake, and
 <br>
 know quite well:
+<br>
 <br>
 "You're gonna carry that weight."
 <br>
