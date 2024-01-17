@@ -1,5 +1,5 @@
 ---
-title: Fever Dream, 2012: 2
+title: Fever Dream, 2012 | 2
 date: '2024-01-16'
 published: true
 layout: post
